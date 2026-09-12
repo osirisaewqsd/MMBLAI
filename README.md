@@ -30,7 +30,7 @@ AI 本地模型管理器
 一键打包.bat 
 ```
 
-## 界面截图
+## 程序界面截图
 
 ![截图 1](docs/screenshots/screenshot-1.png)
 
@@ -40,7 +40,7 @@ AI 本地模型管理器
 
 ![截图 4](docs/screenshots/screenshot-4.png)
 
-## 模型资源
+## 工具，模型资源
 
 - [llama.cpp releases](https://github.com/ggml-org/llama.cpp/releases)
 - [HF Mirror 国内模型下载站](https://hf-mirror.com/)

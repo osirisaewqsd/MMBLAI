@@ -24,6 +24,16 @@ AI 本地模型管理器
 一键打包.bat 脚本
 ```
 
+## 界面截图
+
+![截图 1](docs/screenshots/screenshot-1.png)
+
+![截图 2](docs/screenshots/screenshot-2.png)
+
+![截图 3](docs/screenshots/screenshot-3.png)
+
+![截图 4](docs/screenshots/screenshot-4.png)
+
 ## 模型资源
 
 - [llama.cpp releases](https://github.com/ggml-org/llama.cpp/releases)

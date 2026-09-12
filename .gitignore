@@ -4,6 +4,7 @@ bin/
 obj/
 publish/
 *.user
+/示例图片/
 
 # Build outputs
 *.exe

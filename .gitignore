@@ -1,0 +1,20 @@
+# Visual Studio / MSBuild
+.vs/
+bin/
+obj/
+publish/
+*.user
+
+# Build outputs
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Logs and local config
+*.log
+*.suo
